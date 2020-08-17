@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          I was Changed 
+          I was Changed to check AWS beanstalk error
         </p>
         <a
           className="App-link"
